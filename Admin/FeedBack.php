@@ -38,6 +38,7 @@ function type_input($data){
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="./css/bootstrap.min.css">
+    
   </head>
   <body class="bg-dark">
     <ul class="nav nav-tabs nav-stacked bg-light">
@@ -74,19 +75,18 @@ function type_input($data){
     </ul>
 
   <div class="container">
-
-  <div id="infoTable"}><?php include 'FeedBackUp.php' ?></div>
+  <?php include 'FeedBackUp.php' ?>
   </div>
  
+
+
  
-
-
-      
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="./js/jquery-3.3.1.slim.min.js"></script>
     <script src="./js/popper.min.js"></script>
     <script src="./js/bootstrap.min.js" ></script>
   </body>
+  
   
 </html>

@@ -11,8 +11,8 @@
   </head>
   <body class="bg-dark">-->
 <div class="nbutton d-flex justify-content-center mt-3">
-   <button type="button" onclick="switchlistAll()" class="btn btn-secondary m-2" btn-lg btn-block">All Users</button>
-   <button type="button" onclick="switchlist()" class="btn btn-secondary m-2" btn-lg btn-block">New Users</button>
+   <button type="button" onclick="switchlistAll()" class="btn btn-secondary m-2" btn-lg btn-block">All</button>
+   <button type="button" onclick="switchlist()" class="btn btn-secondary m-2" btn-lg btn-block">New</button>
 </div>
 
 

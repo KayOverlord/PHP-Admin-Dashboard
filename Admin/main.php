@@ -147,7 +147,7 @@ function type_input($data){
   </div>
   </div>
 <div id="infoTable" style="display:none"}><?php include 'view.php' ?></div>
-  </div>
+  
 
 
 
